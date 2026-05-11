@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite preview --host 0.0.0.0 --port $PORT",
-    "build": "vue-tsc --build && vite build",
+    "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --build"
@@ -21,6 +21,7 @@
     "@types/node": "^24.12.2",
     "@vitejs/plugin-vue": "^6.0.6",
     "@vue/tsconfig": "^0.9.1",
+    "npm-run-all2": "^8.0.4",
     "typescript": "~6.0.0",
     "vite": "^8.0.8",
     "vite-plugin-vue-devtools": "^8.1.1",
