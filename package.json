@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite preview --host 0.0.0.0 --port $PORT",
-    "build": "vue-tsc --build && vite build",
+    "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --build"
