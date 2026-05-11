@@ -1,0 +1,217 @@
+{
+    "result": "Banyar \u00e9s sin\u00f2nim de piler del foc, \u00e9s l'humitat que anuncia un final  i no podr\u00e0 amb el foguerer que soc.  Aigua que balla amb les flames, un ball que els foguerers perpetua  aparant-los dels nostres drames.  La font de Gabriel Mir\u00f3 aigua mana, el llit d'un pol a la cantia entregat,  a un ritual festiu de molta bona gana.  Ser\u00e0 la banyar la que anunciar\u00e0 quan s'apagui el beneit foc  un nou exercici la porta obrir\u00e0.  Una palmera anunciar\u00e0 fant\u00e0stica des del punt m\u00e9s alt de la vista  el deler d'una nit festiva i m\u00e0gica.  Lluna i llum disputen a l'oscuritat l'anunci d'una nit molt esperada  on com flors lluiran el seu esclat.",
+    "stab_segments": [
+        {
+            "start": 0.0,
+            "end": 3.84,
+            "word": "Banyar és sinònim de piler del foc, és l'humitat",
+            "probability": 0.7357177734375,
+            "segmentNo": 0
+        },
+        {
+            "start": 3.84,
+            "end": 7.12,
+            "word": "que anuncia un final i no podrà amb el foguerer que soc.",
+            "probability": 0.77880859375,
+            "segmentNo": 0
+        },
+        {
+            "start": 7.12,
+            "end": 7.82,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 7.82,
+            "end": 10.8,
+            "word": "Aigua que balla amb les flames, un ball que els foguerers",
+            "probability": 0.9059244791666666,
+            "segmentNo": 2
+        },
+        {
+            "start": 10.8,
+            "end": 13.42,
+            "word": "perpetua aparant-los dels nostres drames.",
+            "probability": 0.89404296875,
+            "segmentNo": 2
+        },
+        {
+            "start": 13.42,
+            "end": 14.0,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 14.0,
+            "end": 16.7,
+            "word": "La font de Gabriel Miró aigua mana, el llit d'un",
+            "probability": 0.8876953125,
+            "segmentNo": 4
+        },
+        {
+            "start": 16.7,
+            "end": 19.38,
+            "word": "pol a la cantia entregat, a un ritual festiu",
+            "probability": 0.48779296875,
+            "segmentNo": 4
+        },
+        {
+            "start": 19.38,
+            "end": 20.72,
+            "word": "de molta bona gana.",
+            "probability": 0.85302734375,
+            "segmentNo": 5
+        },
+        {
+            "start": 20.72,
+            "end": 21.44,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 21.44,
+            "end": 23.82,
+            "word": "Serà la banyar la que anunciarà quan s'apagui",
+            "probability": 0.818603515625,
+            "segmentNo": 6
+        },
+        {
+            "start": 23.82,
+            "end": 27.28,
+            "word": "el beneit foc un nou exercici la porta obrirà.",
+            "probability": 0.8701171875,
+            "segmentNo": 6
+        },
+        {
+            "start": 27.28,
+            "end": 32.82,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 32.82,
+            "end": 36.34,
+            "word": "Una palmera anunciarà fantàstica des del punt",
+            "probability": 0.81005859375,
+            "segmentNo": 8
+        },
+        {
+            "start": 36.34,
+            "end": 40.38,
+            "word": "més alt de la vista el deler d'una nit festiva i màgica.",
+            "probability": 0.8486328125,
+            "segmentNo": 8
+        },
+        {
+            "start": 40.38,
+            "end": 40.98,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 40.98,
+            "end": 44.26,
+            "word": "Lluna i llum disputen a l'oscuritat l'anunci d'una",
+            "probability": 0.51214599609375,
+            "segmentNo": 10
+        },
+        {
+            "start": 44.26,
+            "end": 47.86,
+            "word": "nit molt esperada on com flors lluiran el seu esclat.",
+            "probability": 0.9169921875,
+            "segmentNo": 10
+        },
+                                {
+            "start": 47.86,
+            "end": 52,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        }
+    ],
+    "segment_data": [
+        {
+            "start": 0.0,
+            "end": 5.22,
+            "index": 0
+        },
+        {
+            "start": 5.22,
+            "end": 7.12,
+            "index": 1
+        },
+        {
+            "start": 7.82,
+            "end": 11.5,
+            "index": 2
+        },
+        {
+            "start": 11.5,
+            "end": 13.42,
+            "index": 3
+        },
+        {
+            "start": 14.0,
+            "end": 17.98,
+            "index": 4
+        },
+        {
+            "start": 18.32,
+            "end": 20.72,
+            "index": 5
+        },
+        {
+            "start": 21.44,
+            "end": 24.68,
+            "index": 6
+        },
+        {
+            "start": 24.68,
+            "end": 27.28,
+            "index": 7
+        },
+        {
+            "start": 32.82,
+            "end": 37.36,
+            "index": 8
+        },
+        {
+            "start": 37.36,
+            "end": 40.38,
+            "index": 9
+        },
+        {
+            "start": 40.98,
+            "end": 45.36,
+            "index": 10
+        },
+        {
+            "start": 45.36,
+            "end": 47.86,
+            "index": 11
+        }
+    ],
+    "vad_segment_array": [
+        {
+            "start": 0.0,
+            "end": 27.568
+        },
+        {
+            "start": 33.104,
+            "end": 48.336
+        }
+    ],
+    "diarization": [
+        {
+            "start": "0",
+            "end": "52.296",
+            "speaker": "SPEAKER_00"
+        }
+    ]
+}

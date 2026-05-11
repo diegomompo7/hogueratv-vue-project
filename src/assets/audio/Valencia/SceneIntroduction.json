@@ -1,0 +1,359 @@
+{
+    "result": "El tema de la foguera \u00e9s la nit de l'abanyada,  el sentiments per part de l'Alacant\u00ed a aquesta nit tan especial.  En la part davantera podem veure la font de l'aiguadera  de la pla\u00e7a de Gabriel Mir\u00f3 de Alacant.  Aquesta dona porta un aturell que llan\u00e7a aigua purificadora  sobre un cap que representa l'acat, la nit i l'aigua fosca.  En els laterals de la font podem veure dos querubins,  damunt d'unes petxines que emanen aigua  per avan\u00e7ar la calor de la nit de la crema.  Dalt del tot veiem una palmera de focs artificials  que anuncia el comen\u00e7ament de la crema.  En un costat veiem una ninfa, que \u00e9s la deessa de l'aigua  que est\u00e0 regalant-te una gota d'esperan\u00e7a i de festa a Alacant.  A l'altre costat podem veure una noia amb un vestit de bany de plomes  dins d'una copa. Es diu Paloma i representa la beguda  que es fa amb la nit tenis i aigua que celebra el seu centenari.  En la part posterior podem veure dues belleses  representades de les festes d'Alacant,  que no volen sentir parlament.",
+    "stab_segments": [
+        {
+            "start": 0.000,
+            "end": 0.920,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 0.92,
+            "end": 3.52,
+            "word": "El tema de la foguera és la nit de l'abanyada,",
+            "probability": 0.6201171875,
+            "segmentNo": 0
+        },
+        {
+            "start": 3.52,
+            "end": 6.18,
+            "word": "el sentiments per part de l'Alacantí a aquesta",
+            "probability": 0.79150390625,
+            "segmentNo": 1
+        },
+        {
+            "start": 6.18,
+            "end": 7.02,
+            "word": "nit tan especial",
+            "probability": 0.9326171875,
+            "segmentNo": 1
+        },
+        {
+            "start": 7.02,
+            "end": 7.74,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 7.74,
+            "end": 10.78,
+            "word": "En la part davantera podem veure la font de l'aiguadera",
+            "probability": 0.68603515625,
+            "segmentNo": 2
+        },
+        {
+            "start": 10.78,
+            "end": 12.5,
+            "word": "de Gabriel Miró de Alacant. ",
+            "probability": 0.8818359375,
+            "segmentNo": 3
+        },
+        {
+            "start": 12.5,
+            "end": 13.02,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 13.02,
+            "end": 15.4,
+            "word": "Aquesta dona porta un aturell que llança aigua",
+            "probability": 0.931884765625,
+            "segmentNo": 4
+        },
+        {
+            "start": 15.4,
+            "end": 18.18,
+            "word": "purificadora sobre un cap que representa l'acat,",
+            "probability": 0.9358723958333334,
+            "segmentNo": 4
+        },
+        {
+            "start": 18.18,
+            "end": 20.3,
+            "word": "la nit i l'aigua fosca.",
+            "probability": 0.8798828125,
+            "segmentNo": 5
+        },
+        {
+            "start": 20.3,
+            "end": 20.86,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 20.86,
+            "end": 23.9,
+            "word": "En els laterals de la font podem veure dos querubins,",
+            "probability": 0.7822265625,
+            "segmentNo": 6
+        },
+        {
+            "start": 23.9,
+            "end": 26.74,
+            "word": "damunt d'unes petxines que emanen aigua per avançar",
+            "probability": 0.92578125,
+            "segmentNo": 7
+        },
+        {
+            "start": 26.74,
+            "end": 28.16,
+            "word": "a calor de la nit de la crema.",
+            "probability": 0.8125,
+            "segmentNo": 8
+        },
+        {
+            "start": 28.16,
+            "end": 29.26,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 29.26,
+            "end": 32.58,
+            "word": "Dalt del tot veiem una palmera de focs artificials",
+            "probability": 0.767333984375,
+            "segmentNo": 9
+        },
+        {
+            "start": 32.58,
+            "end": 34.2,
+            "word": "que anuncia el començament de la crema.",
+            "probability": 0.61865234375,
+            "segmentNo": 10
+        },
+        {
+            "start": 34.2,
+            "end": 34.98,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 34.98,
+            "end": 38.38,
+            "word": "En un costat veiem una ninfa, que és la deessa de",
+            "probability": 0.791015625,
+            "segmentNo": 11
+        },
+        {
+            "start": 38.38,
+            "end": 40.76,
+            "word": "l'aigua que està regalant-te una gota d'esperança",
+            "probability": 0.9970703125,
+            "segmentNo": 11
+        },
+        {
+            "start": 40.76,
+            "end": 42.04,
+            "word": "i de festa a Alacant.",
+            "probability": 0.97705078125,
+            "segmentNo": 12
+        },
+        {
+            "start": 42.04,
+            "end": 42.74,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 42.74,
+            "end": 45.64,
+            "word": "A l'altre costat podem veure una noia amb un vestit",
+            "probability": 0.96044921875,
+            "segmentNo": 13
+        },
+        {
+            "start": 45.64,
+            "end": 47.78,
+            "word": "de plomes dins d'una copa.",
+            "probability": 0.86474609375,
+            "segmentNo": 13
+        },
+        {
+            "start": 47.78,
+            "end": 48.04,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 48.04,
+            "end": 50.66,
+            "word": "Es diu Paloma i representa la beguda que es fa amb",
+            "probability": 0.9130859375,
+            "segmentNo": 14
+        },
+        {
+            "start": 50.66,
+            "end": 53.28,
+            "word": " la nit tenis i aigua que celebra el seu centenari.",
+            "probability": 0.147216796875,
+            "segmentNo": 15
+        },
+        {
+            "start": 53.28,
+            "end": 54.1,
+            "word": "(Música)",
+            "probability": 0.5322265625,
+            "segmentNo": 0
+        },
+        {
+            "start": 54.1,
+            "end": 58.16,
+            "word": "En la part posterior podem veure dues belleses representades de les festes",
+            "probability": 0.859375,
+            "segmentNo": 16
+        },
+        {
+            "start": 58.16,
+            "end": 61.1,
+            "word": "d'Alacant, que no volen sentir parlar de la crema de la foguera.",
+            "probability": 0.77587890625,
+            "segmentNo": 18
+        },
+        {
+            "start": 61.1,
+            "end": 62.12,
+            "word": "(Música)",
+            "probability": 0.5322265625
+        },
+        {
+            "start": 62.12,
+            "end": 64.7,
+            "word": "També tenim una papallona de la qual hi són moltes ",
+            "probability": 0.77587890625,
+            "segmentNo": 18
+        },
+        {
+            "start": 64.7,
+            "end": 67.02,
+            "word": "papallones de colors i als seus peus el",
+            "probability": 0.77587890625,
+            "segmentNo": 18
+        },
+        {
+            "start": 67.02,
+            "end": 67.98,
+            "word": "passeig de l'esplanat.",
+            "probability": 0.77587890625,
+            "segmentNo": 18
+        }
+    ],
+    "segment_data": [
+        {
+            "start": 0.92,
+            "end": 3.52,
+            "index": 0
+        },
+        {
+            "start": 4.04,
+            "end": 7.02,
+            "index": 1
+        },
+        {
+            "start": 7.74,
+            "end": 10.78,
+            "index": 2
+        },
+        {
+            "start": 10.78,
+            "end": 12.5,
+            "index": 3
+        },
+        {
+            "start": 13.02,
+            "end": 16.18,
+            "index": 4
+        },
+        {
+            "start": 16.18,
+            "end": 20.3,
+            "index": 5
+        },
+        {
+            "start": 20.86,
+            "end": 23.9,
+            "index": 6
+        },
+        {
+            "start": 24.26,
+            "end": 26.16,
+            "index": 7
+        },
+        {
+            "start": 26.16,
+            "end": 28.16,
+            "index": 8
+        },
+        {
+            "start": 29.26,
+            "end": 32.58,
+            "index": 9
+        },
+        {
+            "start": 32.58,
+            "end": 34.2,
+            "index": 10
+        },
+        {
+            "start": 34.98,
+            "end": 38.78,
+            "index": 11
+        },
+        {
+            "start": 38.78,
+            "end": 42.04,
+            "index": 12
+        },
+        {
+            "start": 42.74,
+            "end": 46.5,
+            "index": 13
+        },
+        {
+            "start": 46.5,
+            "end": 50.0,
+            "index": 14
+        },
+        {
+            "start": 50.0,
+            "end": 53.28,
+            "index": 15
+        },
+        {
+            "start": 54.1,
+            "end": 56.7,
+            "index": 16
+        },
+        {
+            "start": 56.7,
+            "end": 58.62,
+            "index": 17
+        },
+        {
+            "start": 58.96,
+            "end": 59.98,
+            "index": 18
+        }
+    ],
+    "vad_segment_array": [
+        {
+            "start": 0.0,
+            "end": 60.001
+        }
+    ],
+    "diarization": [
+        {
+            "start": "0",
+            "end": "60",
+            "speaker": "SPEAKER_00"
+        }
+    ]
+}

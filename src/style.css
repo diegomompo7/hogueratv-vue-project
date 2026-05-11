@@ -1,0 +1,107 @@
+/* ── TV Design Tokens ─────────────────────────────────── */
+:root {
+  --color-bg: #000000;
+  --color-surface: #0d0d0d;
+  --color-accent: #FFD700;
+  --color-accent-dim: rgba(255, 215, 0, 0.55);
+  --color-accent-glow: rgba(255, 215, 0, 0.28);
+  --color-text: #FFD700;
+  --color-text-muted: rgba(255, 215, 0, 0.55);
+  --color-error: #FF6B6B;
+  --color-error-glow: rgba(255, 107, 107, 0.30);
+
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Playfair Display', Georgia, serif;
+
+  /* TV 10-foot typography — larger than mobile */
+  --text-sm:   clamp(1rem,   1.4vw, 1.25rem);    /* 16–20px */
+  --text-base: clamp(1.25rem, 1.8vw, 1.5rem);    /* 20–24px */
+  --text-lg:   clamp(1.5rem,  2.2vw, 2rem);      /* 24–32px */
+  --text-xl:   clamp(2rem,    3vw,   2.75rem);    /* 32–44px */
+  --text-2xl:  clamp(2.75rem, 4vw,   3.5rem);    /* 44–56px */
+  --text-3xl:  clamp(4rem,    6vw,   6.5rem);    /* 64–104px — scene titles */
+
+  --space-sm:  0.5rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+
+  /* TV focus indicator — prominent for remote control */
+  --focus-outline: 5px solid var(--color-accent);
+  --focus-offset: 6px;
+
+  --glow-sm:    0 0 0.5em 0.3em  var(--color-accent-glow);
+  --glow-md:    0 0 0.9em 0.55em var(--color-accent-glow);
+  --glow-lg:    0 0 1.4em 0.8em  var(--color-accent-glow);
+  --glow-error: 0 0 0.6em 0.35em var(--color-error-glow);
+
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+
+  --radius-full: 9999px;
+  --radius-lg: 1.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --transition-fast: 0.01ms linear;
+    --transition-base: 0.01ms linear;
+  }
+}
+
+/* ── Reset ────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Base: full-screen, no scroll (TV) ───────────────── */
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: linear-gradient(160deg, #00CFFF 0%, #00A8E0 55%, #0080BB 100%);
+  background-attachment: fixed;
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  animation: appFadeIn 0.4s ease forwards;
+}
+
+@keyframes appFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #app { animation: none; }
+}
+
+/* ── Focus: global TV focus style ────────────────────── */
+:focus { outline: none; }
+
+:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-offset);
+  border-radius: var(--radius-full);
+}
+
+/* Focused class (set by useArrowNav) mirrors focus-visible */
+.focused {
+  outline: var(--focus-outline) !important;
+  outline-offset: var(--focus-offset) !important;
+  box-shadow: var(--glow-md) !important;
+}
